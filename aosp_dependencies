@@ -14,7 +14,7 @@
     "remote": "github"
   },
   {
-    "repository": "GZR-Kernels/Optimus_Drunk_Phoenix",
+    "repository": "rakeshraimca/Hardrock_kernel_phoenix",
     "target_path": "kernel/xiaomi/sm6150",
     "remote": "github"
   }
