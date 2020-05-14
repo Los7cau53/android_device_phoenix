@@ -13,9 +13,4 @@
     "target_path": "hardware/xiaomi",
     "remote": "github"
   },
-  {
-    "repository": "rakeshraimca/Hardrock_kernel_phoenix",
-    "target_path": "kernel/xiaomi/sm6150",
-    "remote": "github"
-  }
 ]
