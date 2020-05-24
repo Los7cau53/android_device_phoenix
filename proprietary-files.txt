@@ -447,3 +447,4 @@ vendor/firmware/NT36xxx_MP_Setting_Criteria_592A.csv
 
 # Thermal
 vendor/bin/mi_thermald
+vendor/bin/thermal-engine
